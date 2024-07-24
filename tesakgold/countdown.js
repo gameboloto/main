@@ -8,7 +8,7 @@ x2 = Math.round((now - then) / (1000 * 60 * 60 * 24));
 //('Тисак не отдает 10г уже '+x2+' дней');
 var hh = document.createElement('h1');
 
-var div = h1.append('Тисак не отдает 10г уже '+x2+' дней');
+var div = h1.append('Тесак не отдает 10г уже '+x2+' дней');
 
 
 };
